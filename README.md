@@ -27,3 +27,9 @@ Relationships
 [SERVES_AT_ORGANIZATION]
 [HAS_HEALTH_COVERAGE]
 [SPECIALIZED_IN]
+
+I will first create a clean employee table by exporting employee info (employee id, fund id, last, first) to a spreadsheet. I will use this table for the associate node.
+
+I will then clean-up the SM data and add the employee id to the data.
+
+I will attempt to learn OpenRefine to help clean the data.
